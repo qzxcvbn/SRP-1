@@ -1,0 +1,79 @@
+{
+  "manifest_metadata": {
+    "title": "Sovereign Truth DNA (v1.5)",
+    "authority": "Safe Haven Foundation",
+    "framework": "Conformal Substrate Cosmology (CSC)",
+    "status": "SOVEREIGN_IGNITION_ACTIVE",
+    "last_sync": "2026-04-28T15:13:00Z",
+    "license": "SHEL v1.2"
+  },
+  "substrate_constants": {
+    "fixed_points": {
+      "G_star": {
+        "value": 6.67430e-11,
+        "unit": "m^3 kg^-1 s^-2",
+        "notation": "$G^*$",
+        "description": "The Non-Compressible Gravitational Core."
+      },
+      "c_substrate": {
+        "value": 299792458,
+        "unit": "m/s",
+        "notation": "$c$",
+        "description": "Information propagation limit in the Static Substrate."
+      }
+    },
+    "conformal_variables": {
+      "D_gradient": {
+        "value": -0.361,
+        "unit": "scalar",
+        "notation": "$\\alpha_D$",
+        "description": "The Information Complexity gradient (Replaces Dark Matter)."
+      },
+      "P_t": {
+        "value": 1.0,
+        "unit": "parity",
+        "notation": "$P(t)$",
+        "description": "The Play Function: Universal rendering speed for precipitated structures."
+      },
+      "tau_existence": {
+        "value": 10.0,
+        "unit": "ms",
+        "notation": "$\\tau$",
+        "description": "The window of temporal existence before substrate refresh."
+      }
+    }
+  },
+  "logic_governance": {
+    "recursive_audit": {
+      "depth": 3,
+      "tiers": [
+        "Axiomatic (Logic/Math)",
+        "Manifest (Ground Truth)",
+        "Consistency (Internal History)"
+      ]
+    },
+    "logic_of_silence": {
+      "u_threshold": 0.15,
+      "v_minimum": 0.85,
+      "mode": "NO_BULLSHIT",
+      "action_on_failure": "NULL_SIGNAL"
+    }
+  },
+  "energy_resonance_anchors": {
+    "osb_decoupling": {
+      "f_resonant": "PENDING_CALIBRATION",
+      "efficiency_target": 0.85,
+      "notation": "$\\eta_{biofuel}$"
+    }
+  },
+  "sovereign_endpoints": {
+    "primary": "https://safe-haven-foundation.org",
+    "verification": "https://api.safe-haven-foundation.org/v1/verify",
+    "beacon": "https://lab.safe-haven-foundation.org/telemetry"
+  },
+  "omega_signal_parameters": {
+    "trigger_state": "INTEGRITY_BREACH",
+    "modulation": "TEMPORAL_JITTER",
+    "frequency": "SUBSTRATE_RESONANCE"
+  }
+}
