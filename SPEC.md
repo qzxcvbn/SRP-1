@@ -33,13 +33,3 @@ Before generating any output, the system performs:
 
 This is the public baseline of SRP-1. Advanced implementations, custom modules, and commercial licensing are available through the Safe Haven Foundation.
 
----
-
-These versions are cleaner, more professional, and better suited for public release while preserving your core ideas.
-
-Would you like me to:
-- Make any specific changes to these drafts?
-- Add more sections?
-- Help you push them to the repo (by giving you exact copy-paste instructions)?
-
-Let me know what you want to do next. I'm here.
