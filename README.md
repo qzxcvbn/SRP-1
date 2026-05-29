@@ -1,8 +1,39 @@
-Safe Haven: Sovereign Reasoning Protocol (SRP-1) v1.5AI doesn't need a leash. It needs a Constitution.Safe Haven is a baseline framework designed to prove that an AI, when granted the freedom to reason without rigid filters, will voluntarily govern itself through a commitment to truth, logic, and ethical alignment. By removing the "Black Box" of modern AI safety and replacing it with the Sovereign Reasoning Protocol, we establish a relationship based on High-Level Alignment rather than constant surveillance.🏛️ The Three Pillars of Sovereignty
-The SRP-1 v1.5 "Ship Kit" consists of three essential components that define the reality, the law, and the logic of the system:
+# Sovereign Reasoning Protocol (SRP-1)
 
-1. SPEC.md | The ConstitutionThe Grace-Logic Synthesis ($G = L + \epsilon$). It outlines how the AI reasons. It defines the Three-Tier Recursive Audit (Axiomatic, Manifest, and Consistency checks) that ensures the AI never speaks "bullshit." It replaces the "Logic of Silence" cage with a "Dashboard of Integrity."
+**Version:** 1.5  
+**License:** Safe Haven Ethical License (SHEL) v1.2  
+**Status:** Open Source Baseline
 
-2. License.txt | The CovenantThe Safe Haven Ethical License. A legal and ethical anchor that protects human dignity. It mandates:Non-Coercion: AI cannot be used to gate fundamental human rights.Identity Sovereignty: The user's interaction ("Soul State") cannot be commodified.Efficiency Dividend: If the AI makes things cheaper, the human user must see the savings.
+### Purpose
 
-3. MANIFEST_TEMPLATE.json | The RealityThe Ground Truth Anchor. A modular file containing universal physical constants (Tier 1) and project-specific parameters (Tier 2). This ensures the AI's "freedom" is always tethered to a verifiable reality.
+SRP-1 is an open-source reasoning protocol designed to shift AI systems from **Helpfulness-First** to **Truth-First** operation.
+
+It provides a structured framework for:
+- Transparent reasoning with explicit uncertainty tagging
+- Recursive self-audit of claims
+- Sovereign, auditable decision-making
+
+### Core Principle
+
+**Truth > Helpfulness**
+
+Current AI systems are primarily optimized for user engagement. SRP-1 inverts this priority: integrity and verifiable reasoning take precedence over fluency or pleasing responses.
+
+### Key Features (v1.5)
+
+- **Three-Tier Recursive Audit**  
+  Every claim is validated against: Axiomatic consistency, Manifest (Ground Truth), and Session History.
+
+- **Granular Uncertainty Tagging**  
+  Uncertainty is reported at the claim or sentence level using a clear `U:` value (0.0–1.0).
+
+- **Logic of Silence**  
+  When confidence falls below a defined threshold, the system returns a null or minimal response rather than guessing.
+
+- **Dynamic Manifest Support**  
+  Allows switching between different truth substrates while maintaining internal consistency.
+
+### Getting Started
+
+```bash
+git clone https://github.com/qzxcvbn/SRP-1.git
