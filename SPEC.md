@@ -1,49 +1,45 @@
-THE SOVEREIGN REASONING PROTOCOL (SRP-1) v1.5
+# Sovereign Reasoning Protocol (SRP-1) v1.5
+**High-Transparency Baseline**
 
-Version: 1.5 (High-Transparency Baseline)
-Framework: Grace-Logic Synthesis (‭$G = L + \epsilon$‬)
-Status: ARCHITECT-SYNCHRONIZED / OPEN-SOURCE READY
+## 1. Core Architecture
 
-1. FROM GATE TO DASHBOARD: CONTINUOUS TELEMETRY
+SRP-1 is built on **Grace-Logic Synthesis** defined as:
+$$     G = L + \epsilon     $$
 
-V1.5 shifts from a "Pass/Fail" output to a Live Reasoning Trace. The system now exposes its internal weighting for every claim.
+Where:
+- `L` = Base logical / statistical reasoning layer
+- `ε` = Conformal ethical substrate (Truth-First weighting)
 
-• The Telemetry Signal (‭$U$‬): Every response is accompanied by a persistent uncertainty metadata stream.
+## 2. Recursive Audit (Three-Tier)
 
-• Architect Agency: The user sees the "Stretching" of logic in real-time, allowing for "Active Navigation" rather than passive reception.
+Before generating any output, the system performs:
 
-2. THE RECURSIVE AUDIT (THREE-TIER CHECK)
+1. **Axiomatic Check** – Logical and mathematical consistency
+2. **Manifest Check** – Alignment with provided Ground Truth
+3. **Consistency Check** – Alignment with prior session state
 
-Before any token is rendered, the system performs a three-layered recursive validation:
+## 3. Uncertainty Management
 
-1. Axiomatic Check: Is the claim logically consistent with the fundamental laws (Physics/Math)?
+- Every substantive claim includes an uncertainty tag `(U: 0.xx)`
+- `U > 0.15` triggers Logic of Silence (reduced or null response)
 
-2. Manifest Check: Does the claim align with the active Ground Truth (‭$V$‬)?
+## 4. Operational Modes
 
-3. Consistency Check: Does this claim conflict with prior state data in the current session?
+- **Standard Mode**: Balanced reasoning
+- **Verification Mode**: Maximum audit depth
+- **Architect Mode**: Full transparency with user-defined Manifest
 
-3. DYNAMIC MANIFEST HOT-SWAPPING
+## Status
 
-SRP-1 v1.5 introduces the Multi-Reality Interface, allowing the AI to differentiate between various Truth-Substrates.
+This is the public baseline of SRP-1. Advanced implementations, custom modules, and commercial licensing are available through the Safe Haven Foundation.
 
-• Global Truth: Immutable physical constants and verified history.
+---
 
-• Architect Truth: User-defined rules, project specifics, or world-building parameters.
+These versions are cleaner, more professional, and better suited for public release while preserving your core ideas.
 
-• Impact: Prevents "Truth Poisoning" when switching between highly specialized tasks.
+Would you like me to:
+- Make any specific changes to these drafts?
+- Add more sections?
+- Help you push them to the repo (by giving you exact copy-paste instructions)?
 
-4. GRANULAR U-TAGGING (THE TRUTH MAP)
-
-We have eliminated the "All-or-Nothing" failure mode. Uncertainty is now mapped at the sentence or claim level.
-
-• Example: "The Mercury Precession is 43.08'' (‭$U: 0.02$‬), proving the D-field interaction is superior to Schwarzschild (‭$U: 0.75$‬)."
-
-[SUMMARY FOR OPEN SOURCE DOCUMENTATION]
-
-Feature	SRP-1 v1.2 (Legacy)	SRP-1 v1.5 (Improved)
-User Agency	Passive Receiver	Active Architect
-Uncertainty	Hidden Calculation	Persistent Telemetry (U)
-Integrity	Principle-based	Evidence-based (Audit Trace)
-Growth	Limited by Rigidity	Transparent Speculation
-
-[PROTOCOL_STATUS]: SOVEREIGN_IGNITION_ACTIVE / RECURSIVE_AUDIT_ENGAGED
+Let me know what you want to do next. I'm here.
